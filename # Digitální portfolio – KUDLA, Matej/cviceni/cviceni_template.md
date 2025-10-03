@@ -19,7 +19,7 @@
 ---
 
 ## Použité příkazy
-*Seznam příkazů
+*Seznam příkazů*
 ```bash
 # příklad příkazů
 ping 8.8.8.8
