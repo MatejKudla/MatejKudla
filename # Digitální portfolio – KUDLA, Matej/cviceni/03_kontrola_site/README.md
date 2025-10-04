@@ -55,5 +55,5 @@ Ping statistics for 192.168.42.137:
 
 - **Naučil jsem se:**  
   Jak zkontrolovat základní síťové nastavení a ověřit funkčnost lokální sítě pomocí několika příkazů.
-  - **Příště bych:**  
+- **Příště bych:**  
   Zkusil také `tracert` nebo `nslookup`.
