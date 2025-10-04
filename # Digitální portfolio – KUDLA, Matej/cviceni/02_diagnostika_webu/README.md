@@ -78,7 +78,15 @@ over a maximum of 30 hops:
  11     5 ms     5 ms     6 ms  prg03s11-in-f19.1e100.net [142.251.36.115]
 ```
 ---
+# Zpráva – Diagnostika dostupnosti webu www.eduxo.cz    
+- Příkaz `ping` potvrdil, že server odpovídá – všechny pakety byly doručeny bez ztrát, s odezvou kolem 15 ms.    
+- Při sledování cesty paketů (`tracert`) byla vidět funkční komunikace přes lokální síť i poskytovatele, nicméně na jednom z uzlů došlo k časovému vypršení odpovědi. Trasa však pokračovala dál a cílový server byl     dosažen.  
 
+## Možné příčiny problému  
+- Dočasné omezení nebo filtrování ICMP odpovědí na některém směrovači (běžná praxe u providerů).    
+- Krátkodobé přetížení konkrétního uzlu na trase.    
+- Samotný server **www.eduxo.cz** je podle testů dostupný, problém tedy nebude přímo na cílovém stroji, ale mohl být vyvolán buď lokálním nastavením u zákazníka, nebo výpadkem v trase, který byl mezitím obnoven.    
+---
 ## Reflexe
 
 - **Naučil jsem se:**  
