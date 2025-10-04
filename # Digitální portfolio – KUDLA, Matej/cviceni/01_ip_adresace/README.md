@@ -1,5 +1,4 @@
 # Cviceni 1 - Zjištění IP adresy
-*Cvičení – například IP adresace, práce s příkazy v terminálu apod.*
 
 ---
 
