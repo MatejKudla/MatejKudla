@@ -3,9 +3,11 @@
 ---
 
 ## Zadání
-- Použijte příkaz `ipconfig /all` (Windows) nebo `ip addr` (Linux).
-- Zapište do tabulky hodnoty, které jste zjistili.
-- Krátce vysvětlete, jakou funkci má výchozí brána.
+- Zjistěte IP adresu serveru (`nslookup`).
+- Ověřte dostupnost serveru (`ping`).
+- Sledujte cestu paketů (`tracert` / `traceroute`).
+- Napište krátkou zprávu s výsledky a možnými příčinami problému.
+
 
 ---
 
