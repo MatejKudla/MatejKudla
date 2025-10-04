@@ -1,5 +1,7 @@
-# Cviceni 1 - Zjištění IP adresy
+# Cvičení 1 - Zjištění IP adresy
+
 **Scénář**: Zjistěte, jakou IP adresu, masku podsítě a výchozí bránu má váš počítač.
+
 ---
 
 ## Zadání
