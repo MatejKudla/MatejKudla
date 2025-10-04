@@ -21,9 +21,13 @@
 ---
 
 ## Použité příkazy
+– zobrazení detailní IP konfigurace
 ```bash
-- `ipconfig /all` – zobrazení detailní IP konfigurace  
-- `ping 192.168.1.1` – test dostupnosti výchozí brány
+  ipconfig /all
+```
+– test dostupnosti výchozí brány
+```bash 
+  ping <IP adresa> 
 ```
 ## Výstupy / Testy
 ### Výstup z `ipconfig /all`:
