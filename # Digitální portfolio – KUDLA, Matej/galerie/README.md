@@ -1,2 +1,2 @@
 # Galerie 
-Tady si budu ukládat obrázky, diagramy a topologie
+Tady si budu ukládat obrázky, diagramy a topologie.
