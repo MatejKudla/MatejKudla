@@ -53,6 +53,10 @@ Ping statistics for 192.168.42.137:
   192.168.0.1           20-23-51-f4-4d-f0     dynamic
   192.168.0.144         4a-db-47-6c-cd-03     dynamic
 ```
+## Shrnutí  
+Síťová karta a router fungují správně, komunikace v lokální síti je bez problémů.  
+Příčina nedostupnosti internetu je tedy pravděpodobně na straně poskytovatele.
+
 ---
 ## Reflexe
 
