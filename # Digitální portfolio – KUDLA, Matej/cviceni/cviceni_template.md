@@ -23,16 +23,18 @@
 
 ## Použité příkazy
 ```bash
+# například:
   - ping  8.8.8.8
   - ifconfig
   - traceroute example.com
 ```
 ## Výstupy / Testy
-```bash
 Ukázky výstupů z terminálu nebo výsledky testů:
+```bash
+# například:
 - Výstup `ping`:  
   64 bytes from 8.8.8.8: icmp_seq=1 ttl=117 time=14.2 ms
-
+# nebo
 - Výstup `ifconfig`:  
   enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500  
       inet 192.168.1.10  netmask 255.255.255.0  broadcast 192.168.1.255
