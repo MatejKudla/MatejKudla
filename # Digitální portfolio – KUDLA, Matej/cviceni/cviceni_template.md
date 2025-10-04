@@ -1,4 +1,4 @@
-# Cviceni (cislo cviceni) - Název cvičení
+# Cvičení (číslo cvičení) - Název cvičení
 *Cvičení – například IP adresace, práce s příkazy v terminálu apod.*
 
 ---
