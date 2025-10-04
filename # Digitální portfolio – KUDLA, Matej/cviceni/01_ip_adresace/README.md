@@ -41,6 +41,11 @@
 ```
 
 ---
+## Co je to výchozí brána? 
+
+Výchozí brána (default gateway) je síťové zařízení – obvykle router – přes které tvůj počítač komunikuje s jinými sítěmi mimo lokální síť (LAN).  
+
+---
 
 ## Reflexe
 
