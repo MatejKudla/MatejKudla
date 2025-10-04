@@ -19,10 +19,17 @@
 ---
 
 ## Použité příkazy
+– zjištění IP adresy a masky
 ```bash
-- `ipconfig` – zjištění IP adresy a masky  
-- `ping 192.168.42.137` – otestování dostupnosti routeru  
-- `arp -a` – zobrazení ARP tabulky (MAC adresy zařízení v síti)
+    ipconfig
+```
+– otestování dostupnosti routeru
+```bash   
+    ping <IP adresa>
+```
+– zobrazení ARP tabulky (MAC adresy zařízení v síti)
+```bash
+    arp -a 
 ```
 ---
 
