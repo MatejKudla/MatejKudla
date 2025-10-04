@@ -16,11 +16,11 @@ Váš počítač nemá přístup k internetu.
 ---
 
 ## Použité příkazy
-
+```bash
 - `ipconfig` – zjištění IP adresy a masky  
 - `ping 192.168.42.137` – otestování dostupnosti routeru  
 - `arp -a` – zobrazení ARP tabulky (MAC adresy zařízení v síti)
-
+```
 ---
 
 ## Výstupy / Testy
