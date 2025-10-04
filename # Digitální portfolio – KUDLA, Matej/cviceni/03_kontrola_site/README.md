@@ -3,6 +3,10 @@
 ## Scénář  
 Váš počítač nemá přístup k internetu.
 
+- Zjistěte svou IP adresu a masku (`ipconfig` / `ifconfig`).
+- Ověřte dostupnost routeru (`ping <IP routeru>`).
+- Zkontrolujte ARP tabulku (`arp -a`).
+- Shrňte, zda je problém u vás nebo u poskytovatele.
 ---
 
 ## Řešení  
