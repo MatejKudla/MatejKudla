@@ -14,7 +14,7 @@
 ## Řešení
 *Popis postupu, poznámky k řešení úkolů:*
 
-# například:
+například:
 1. Použil jsem příkaz `ping` k ověření dostupnosti serveru Google DNS (8.8.8.8).  
 2. Zaznamenal jsem počet odeslaných a přijatých paketů, latenci a TTL.  
 3. Shrnul jsem výsledky a zhodnotil spolehlivost sítě.
