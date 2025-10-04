@@ -23,11 +23,19 @@
 ---
 
 ## Použité příkazy
+ – zjištění IP adresy serveru
 ```bash
-- `nslookup www.eduxo.cz` – zjištění IP adresy serveru  
-- `ping www.eduxo.cz` – ověření dostupnosti  
-- `tracert www.eduxo.cz` – sledování cesty paketů
+nslookup www.eduxo.cz
 ```
+– ověření dostupnosti 
+```bash
+ping www.eduxo.cz  
+```
+– sledování cesty paketů
+```bash
+tracert www.eduxo.cz  
+```
+
 ## Výstupy / Testy
 ### Výstup z `nslookup`:
 ```bash
