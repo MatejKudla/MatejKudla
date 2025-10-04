@@ -14,10 +14,15 @@ Chcete analyzovat cestu paketů k serveru Google (www.google.com).
 - Na základě výsledků jsem vyhodnotil, zda je trasa efektivní nebo zda se vyskytují problémy (např. timeouty, velká latence).  
 
 ## Použité příkazy
+
+– sledování cesty paketů k cílovému serveru a měření odezvy jednotlivých routerů  
+- Windows 
 ```bash
 tracert www.google.com
-# nebo na Linuxu
-# traceroute www.google.com
+```
+- Linux
+```bash
+traceroute www.google.com
 ```
 ## Výstup
 ```bash
