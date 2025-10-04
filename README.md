@@ -4,6 +4,7 @@ Student IT | Baví mě programování a technologie
 
 Studuji IT na středni skole Čichnova v Brně.
 Studuji Informační sítě, protože věřím, že mají velkou budoucnost a jsou základem moderní společnosti i technologií.  
+
 V Portfoliu budu dávat své práce.
 
 ##  Dovednosti
