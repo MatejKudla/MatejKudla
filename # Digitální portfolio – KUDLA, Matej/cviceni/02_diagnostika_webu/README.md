@@ -57,12 +57,17 @@ Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Tracing route to www.eduxo.cz
  [193.85.203.98]
 over a maximum of 30 hops:
-
-1 1 ms 1 ms 1 ms 192.168.1.1
-2 8 ms 8 ms 8 ms 10.0.0.1
-3 14 ms 13 ms 14 ms ...
-...
-9 16 ms 15 ms 15 ms 193.85.203.98
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1
+  2    98 ms     8 ms    35 ms  10.55.208.129
+  3     1 ms     1 ms     1 ms  brn-core-r2-vl251.netbox.cz [83.240.0.57]
+  4     5 ms     4 ms     4 ms  prg-core-r2-vl32.netbox.cz [83.240.2.46]
+  5     5 ms     4 ms     4 ms  prg-edge-r2-vl32.netbox.cz [83.240.2.45]
+  6     4 ms     4 ms     4 ms  94.74.231.221
+  7     *        *        5 ms  90-182-199-220.rcp.o2.cz [90.182.199.220]
+  8     *        *        *     Request timed out.
+  9     6 ms     6 ms     6 ms  192.178.98.175
+ 10     5 ms     6 ms     5 ms  142.251.224.123
+ 11     5 ms     5 ms     6 ms  prg03s11-in-f19.1e100.net [142.251.36.115]
 ```
 ---
 
