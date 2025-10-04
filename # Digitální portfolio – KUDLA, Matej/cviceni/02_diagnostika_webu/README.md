@@ -14,12 +14,12 @@
 ---
 
 ## Řešení
-```bash
+
 1. V příkazovém řádku (CMD) jsem spustil příkaz `ipconfig /all` a zkopíroval důležité informace.  
 2. Zapsal jsem IP adresu, masku podsítě, výchozí bránu, MAC adresu a DNS servery do tabulky.  
 3. Pomocí příkazu `ping` jsem ověřil, že výchozí brána odpovídá a je aktivní.  
 4. Nakonec jsem stručně popsal, jak výchozí brána funguje v síti.
-```
+   
 ---
 
 ## Použité příkazy
