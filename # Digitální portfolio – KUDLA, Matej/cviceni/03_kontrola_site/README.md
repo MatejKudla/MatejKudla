@@ -1,8 +1,8 @@
 # Cvičení 3 – Kontrola lokální sítě
 
-## Scénář  
-Váš počítač nemá přístup k internetu.
+**Scénář**: Váš počítač nemá přístup k internetu.
 
+## Zadání
 - Zjistěte svou IP adresu a masku (`ipconfig` / `ifconfig`).
 - Ověřte dostupnost routeru (`ping <IP routeru>`).
 - Zkontrolujte ARP tabulku (`arp -a`).
@@ -10,7 +10,6 @@ Váš počítač nemá přístup k internetu.
 ---
 
 ## Řešení  
-**Popis postupu, poznámky k řešení úkolu:**
 
 1. Pomocí příkazu `ipconfig` (Windows) jsem zjistil svou aktuální IP adresu a masku podsítě.  
 2. Ověřil jsem dostupnost domácího routeru pomocí příkazu `ping` na jeho IP adresu.  
