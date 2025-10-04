@@ -1,5 +1,6 @@
 # Cviceni 2 - Diagnostika dostupnosti webu
-
+## Scénář  
+Zákazník nahlásil problém s dosažitelností webového serveru **www.eduxo.cz**.
 ---
 
 ## Zadání
